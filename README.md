@@ -15,26 +15,22 @@
 ### Dataset URL:
 [Click here to download data](https://github.com/entbappy/Branching-tutorial/raw/master/cat-dog-data.zip)
 
-
-## Youtube Playlist of this project implementation:
-[Click here](https://youtube.com/playlist?list=PLkz_y24mlSJZtxpM7dkfiOYxs6PZXHt0_)
-
 # How to run?
 ### STEPS:
 
 Clone the repository
 
 ```bash
-https://github.com/entbappy/cnnClassifier
+https://github.com/aditya-sonavane-05/CNN_CLASSIFIER
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.7 -y
+python -m venv cnncls
 ```
 
 ```bash
-conda activate cnncls
+cnncls\Scripts\activate
 ```
 
 
@@ -56,9 +52,9 @@ open up you local host and port
 
 
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Aditya Sonavane
+Data Science Student
+Email: adityasonavane005@gmail.com
 
 ```
 
